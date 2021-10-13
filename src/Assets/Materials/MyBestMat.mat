@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Normal Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 282d2abf448d9d84abba80a67be3638f, type: 3}
+  m_Name: MyBestMat
+  m_Shader: {fileID: -6465566751694194690, guid: 9864f89cab105674fbee012df6212726, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -77,9 +77,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 0.01
-    - Interval: 64
-    - Sharp: 4
+    - Height: 0.048
+    - Interval: 50
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -106,14 +105,15 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - sharp: 4
+    - sharp: 7.32
+    - trans: 31.1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &4594337600002719403
+--- !u!114 &8210761901749476572
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
