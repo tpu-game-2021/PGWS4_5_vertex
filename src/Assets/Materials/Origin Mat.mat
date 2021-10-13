@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Color Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 2c34568292871924d8b718a9a94ebf77, type: 3}
+  m_Name: Origin Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 3b0840b674d552a478e9e9b995b4f983, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -90,10 +90,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 1.7
+    - Height: 0.0158
     - Interval: 64
     - Power: 4
-    - Sharp: 0.067
+    - Sharp: 4
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -120,7 +120,7 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - interval: 0
+    - interval: 40.4
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
