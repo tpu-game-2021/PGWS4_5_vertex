@@ -78,7 +78,7 @@ Material:
     m_Ints: []
     m_Floats:
     - Height: 0.01
-    - Interval: 64
+    - Interval: 79.1
     - Sharp: 4
     - _AlphaClip: 0
     - _Blend: 0
