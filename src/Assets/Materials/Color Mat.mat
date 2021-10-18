@@ -91,9 +91,9 @@ Material:
     m_Ints: []
     m_Floats:
     - Height: 0.01
-    - Interval: 64
+    - Interval: 70
     - Power: 4
-    - Sharp: 4
+    - Sharp: 9.6
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
