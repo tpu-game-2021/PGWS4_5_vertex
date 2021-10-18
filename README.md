@@ -1,22 +1,22 @@
 # 頂点の移動
 頂点を動かし、適切にライティングを行います。
 
-![結果画像1](result1.gif)
+![result1](https://user-images.githubusercontent.com/55951546/137748060-639ba609-c124-4ca9-a148-1d5e9094fcc6.gif)
 
-![結果画像2](result2.gif)
+![result2](https://user-images.githubusercontent.com/55951546/137748016-b8ecaaba-1fde-46a1-babf-9cd9d3cc1fd6.gif)
 
-![結果画像3](result3.gif)
+![result3](https://user-images.githubusercontent.com/55951546/137748073-cf7151e5-0d8b-484c-a7c5-8fa608a783a7.gif)
 
-![結果画像](result.gif)
+![result](https://user-images.githubusercontent.com/55951546/137748111-b0a7a967-5591-48d5-b205-cfb61f2486a5.gif)
 
-![シェーダグラフ](node_graph.png)
+![node graph](https://user-images.githubusercontent.com/55951546/137748164-6a8db428-b6bf-4a20-be73-c8226d1aabf2.png)
 
 # 自分なりに変更した点
--
+-マグマが波紋上に広がるような感じにした
 -
 -
 # この後の授業でやって欲しい事
--
+-Textureの作り方（前々回くらいに適当に気にいったフリーのモノを持ってきて作ってみたらTextureの表示がされなかったので何かあるのかと思ったので）
 -
 -
 
