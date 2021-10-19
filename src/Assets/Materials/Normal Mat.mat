@@ -79,7 +79,7 @@ Material:
     m_Floats:
     - Height: 0.01
     - Interval: 64
-    - Sharp: 4
+    - Sharp: 10
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
