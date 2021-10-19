@@ -103,6 +103,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
+    - _Vector: 0.9
     - _WorkflowMode: 1
     - _ZWrite: 1
     - sharp: 0
